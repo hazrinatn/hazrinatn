@@ -49,10 +49,10 @@
 
 <section align="center">
     <div>
-        <img width="300px" src="https://github-readme-stats.vercel.app/api?username=hazrinatn&show_icons=true&locale=en" alt="hazrinatn's GitHub stats" />
+        <img width="400px" src="https://github-readme-stats.vercel.app/api?username=hazrinatn&show_icons=true&locale=en" alt="hazrinatn's GitHub stats" />
     </div>
     <div>
-        <img width="300px" src="https://github-readme-streak-stats.herokuapp.com/?user=hazrinatn&" alt="hazrinatn's GitHub streaks" />
+        <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=hazrinatn&" alt="hazrinatn's GitHub streaks" />
     </div>
 </section>
 
