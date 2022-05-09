@@ -46,7 +46,7 @@
         <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
     </div>
 </section>
-
+&nbsp;
 <section align="center">
     <div>
         <img width="400px" src="https://github-readme-stats.vercel.app/api?username=hazrinatn&show_icons=true&locale=en" alt="hazrinatn's GitHub stats" />
@@ -57,5 +57,5 @@
 </section>
 
 <div><b>About me:</b></div>
-<div> 🌱 Currently learning: Frontend **HTML/CSS/JS/React** and Backend **Node/Express/MongoDB**
+<div> 🌱 Currently learning: Frontend (HTML/CSS/JS/React) and Backend (Node/Express/MongoDB)
 <div> ⚔️ Codewars stats: 6 kyu on JS </div>
