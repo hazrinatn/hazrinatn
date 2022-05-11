@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Hazrina</h1>
-<h3>A passionate full-stack web developer from Indonesia</h3>
+<h3>A passionate full-stack web developer from Indonesia. I am motivated by the power of technology as a tool for positive change.</h3>
 
 <section align="center">
     <h3>Connect with me on:</h3>
