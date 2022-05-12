@@ -48,7 +48,7 @@
 </section>
 &nbsp;
 <section align="center">
-    <h3>Personal Stats</h3>
+    <h3>Personal Stats:</h3>
     <img src="https://www.codewars.com/users/hazrinatn/badges/large" alt="codewars badge"/>
     <div>
         <img width="400px" src="https://github-readme-stats.vercel.app/api?username=hazrinatn&show_icons=true&locale=en" alt="hazrinatn's GitHub stats" />
