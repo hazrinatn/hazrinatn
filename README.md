@@ -19,10 +19,6 @@
         <a href="https://www.hackerrank.com/hazrinatn" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Hackerrank" height="40px" width="40px" /></a>
         </div>
 </section>
-&nbsp;
-<section align="center">
-    <img src="https://www.codewars.com/users/hazrinatn/badges/large" alt="codewars badge"/>
-</section>
 
 <section align="center">
     <h3>Languages and Tools:</h3>
@@ -52,6 +48,8 @@
 </section>
 &nbsp;
 <section align="center">
+    <h3>Personal Stats</h3>
+    <img src="https://www.codewars.com/users/hazrinatn/badges/large" alt="codewars badge"/>
     <div>
         <img width="400px" src="https://github-readme-stats.vercel.app/api?username=hazrinatn&show_icons=true&locale=en" alt="hazrinatn's GitHub stats" />
     </div>
