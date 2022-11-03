@@ -60,4 +60,4 @@
 
 <div><b>About me:</b></div>
 <div> 🌱 Currently learning: Frontend (HTML/CSS/JS/React) and Backend (Node/Express/MongoDB)
-<div> ⚔️ Codewars stats: 6 kyu on JS </div>
+<div> ⚔️ Codewars stats: 5 kyu on JS </div>
